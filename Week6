@@ -1,0 +1,13 @@
+#Week-6
+#Glanel Houenouvi
+#Chapter-6 command Line
+#I want to check my system level
+who -r
+#Create Socket
+echo "socket"
+#want to switch off to runlevel3
+telinit 3
+
+
+
+
